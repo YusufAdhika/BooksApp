@@ -1,16 +1,13 @@
-# submision_flutter_pemula
+## 🍿 Books App
 
-A new Flutter project.
+Books App ini menampilkan beberapa buku best seller indonesia, terdapat nama buku, tahun diterbitkan, rating, deskripsi serta penuslis buku tersebut, kalian bisa melihat cover buku dan membaca sinopsis buku tersebut.
 
-## Getting Started
+## 📱 Feature App
+•  List of Restaurant
+•  Detail Restaurant
 
-This project is a starting point for a Flutter application.
+## ⚙️ Statte Management
+✔︎  GetX State Management
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Project Information
+Project ini adalah project final submission dicoding pada kelas [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159).
